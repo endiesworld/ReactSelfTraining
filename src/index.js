@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App className = 'bg-grey-500 w-screen'/>
   </React.StrictMode>,
   document.getElementById('root')
 );
